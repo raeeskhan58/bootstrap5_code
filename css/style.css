@@ -1,0 +1,26 @@
+.container{
+    border: 10px solid red;
+    /* height: 344px; */
+}
+.box_1{
+    background-color: rgb(240, 216, 216);
+    min-height: 150px;
+}
+.box_2{
+    background-color: rgb(207, 157, 17);
+    min-height: 150px;
+}
+.box_3{
+    background-color: brown;
+    min-height: 250px;
+}
+.box_4{
+    background-color: rgb(85, 42, 165);
+    min-height: 250px;
+}
+.border1{
+    border: 2px solid black;
+}
+.border2{
+    border: 5px solid green;
+}
